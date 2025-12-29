@@ -1,0 +1,32 @@
+{
+  "greeting": {
+    "morning": "Selamat pagi",
+    "afternoon": "Selamat siang",
+    "evening": "Selamat sore",
+    "night": "Selamat malam"
+  },
+  "hero": {
+    "title": "Siap untuk petualangan kuliner?",
+    "subtitle": "Putar roda dan temukan tempat favoritmu berikutnya",
+    "spinButton": "PUTAR SEKARANG"
+  },
+  "stats": {
+    "currentStreak": "Streak Saat Ini",
+    "days": "hari",
+    "day": "hari",
+    "points": "Poin",
+    "activeVouchers": "Voucher Aktif",
+    "expiringSoon": "Segera berakhir",
+    "spinsLeft": "Sisa putaran"
+  },
+  "sections": {
+    "recentDiscoveries": "Penemuan Terbaru",
+    "nearbyPlaces": "Tempat Terdekat",
+    "trending": "Sedang Tren",
+    "seeAll": "Lihat semua"
+  },
+  "empty": {
+    "noDiscoveries": "Belum ada penemuan",
+    "startSpinning": "Mulai putar untuk menemukan tempat-tempat keren!"
+  }
+}

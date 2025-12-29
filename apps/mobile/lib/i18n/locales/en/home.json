@@ -1,0 +1,32 @@
+{
+  "greeting": {
+    "morning": "Good morning",
+    "afternoon": "Good afternoon",
+    "evening": "Good evening",
+    "night": "Good night"
+  },
+  "hero": {
+    "title": "Ready for a food adventure?",
+    "subtitle": "Spin the wheel and discover your next favorite spot",
+    "spinButton": "SPIN NOW"
+  },
+  "stats": {
+    "currentStreak": "Current Streak",
+    "days": "days",
+    "day": "day",
+    "points": "Points",
+    "activeVouchers": "Active Vouchers",
+    "expiringSoon": "Expiring soon",
+    "spinsLeft": "Spins left"
+  },
+  "sections": {
+    "recentDiscoveries": "Recent Discoveries",
+    "nearbyPlaces": "Nearby Places",
+    "trending": "Trending Now",
+    "seeAll": "See all"
+  },
+  "empty": {
+    "noDiscoveries": "No discoveries yet",
+    "startSpinning": "Start spinning to discover amazing places!"
+  }
+}

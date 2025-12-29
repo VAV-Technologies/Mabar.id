@@ -1,0 +1,70 @@
+{
+  "screen": {
+    "title": "Profil",
+    "settings": "Pengaturan"
+  },
+  "stats": {
+    "placesVisited": "Tempat Dikunjungi",
+    "vouchersUsed": "Voucher Digunakan",
+    "streakDays": "Hari Streak"
+  },
+  "menu": {
+    "theme": "Tema",
+    "language": "Bahasa",
+    "notifications": "Notifikasi",
+    "locationSettings": "Pengaturan Lokasi",
+    "inviteFriends": "Undang Teman",
+    "history": "Riwayat",
+    "helpSupport": "Bantuan & Dukungan",
+    "about": "Tentang Mabar",
+    "rateApp": "Beri Rating Aplikasi",
+    "termsOfService": "Syarat Layanan",
+    "privacyPolicy": "Kebijakan Privasi"
+  },
+  "settings": {
+    "account": "Akun",
+    "editProfile": "Edit Profil",
+    "changePassword": "Ubah Kata Sandi",
+    "preferences": "Preferensi",
+    "soundEffects": "Efek Suara",
+    "hapticFeedback": "Getaran",
+    "notificationSettings": "Pengaturan Notifikasi",
+    "voucherExpiry": "Peringatan Voucher Kedaluwarsa",
+    "dailyReminder": "Pengingat Putar Harian",
+    "newPlaces": "Tempat Baru di Sekitar",
+    "promoAlerts": "Info Promo",
+    "danger": "Zona Berbahaya",
+    "deleteAccount": "Hapus Akun"
+  },
+  "theme": {
+    "title": "Pilih Tema",
+    "dark": "Gelap",
+    "light": "Terang",
+    "cream": "Krem"
+  },
+  "language": {
+    "title": "Pilih Bahasa",
+    "english": "English",
+    "indonesian": "Bahasa Indonesia",
+    "note": "Mengubah bahasa akan me-refresh aplikasi"
+  },
+  "logout": {
+    "title": "Keluar",
+    "confirm": "Yakin ingin keluar?",
+    "success": "Kamu telah keluar"
+  },
+  "delete": {
+    "title": "Hapus Akun",
+    "warning": "Tindakan ini tidak dapat dibatalkan. Semua data kamu akan dihapus secara permanen.",
+    "confirm": "Ketik HAPUS untuk konfirmasi",
+    "button": "Hapus Akun Saya"
+  },
+  "edit": {
+    "title": "Edit Profil",
+    "firstName": "Nama Depan",
+    "lastName": "Nama Belakang",
+    "email": "Email",
+    "saveChanges": "Simpan Perubahan",
+    "success": "Profil berhasil diperbarui"
+  }
+}

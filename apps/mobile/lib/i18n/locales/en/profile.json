@@ -1,0 +1,70 @@
+{
+  "screen": {
+    "title": "Profile",
+    "settings": "Settings"
+  },
+  "stats": {
+    "placesVisited": "Places Visited",
+    "vouchersUsed": "Vouchers Used",
+    "streakDays": "Streak Days"
+  },
+  "menu": {
+    "theme": "Theme",
+    "language": "Language",
+    "notifications": "Notifications",
+    "locationSettings": "Location Settings",
+    "inviteFriends": "Invite Friends",
+    "history": "History",
+    "helpSupport": "Help & Support",
+    "about": "About Mabar",
+    "rateApp": "Rate this App",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "settings": {
+    "account": "Account",
+    "editProfile": "Edit Profile",
+    "changePassword": "Change Password",
+    "preferences": "Preferences",
+    "soundEffects": "Sound Effects",
+    "hapticFeedback": "Haptic Feedback",
+    "notificationSettings": "Notification Settings",
+    "voucherExpiry": "Voucher Expiry Alerts",
+    "dailyReminder": "Daily Spin Reminder",
+    "newPlaces": "New Places Nearby",
+    "promoAlerts": "Promo Alerts",
+    "danger": "Danger Zone",
+    "deleteAccount": "Delete Account"
+  },
+  "theme": {
+    "title": "Choose Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "cream": "Cream"
+  },
+  "language": {
+    "title": "Choose Language",
+    "english": "English",
+    "indonesian": "Bahasa Indonesia",
+    "note": "Changing language will refresh the app"
+  },
+  "logout": {
+    "title": "Sign Out",
+    "confirm": "Are you sure you want to sign out?",
+    "success": "You've been signed out"
+  },
+  "delete": {
+    "title": "Delete Account",
+    "warning": "This action cannot be undone. All your data will be permanently deleted.",
+    "confirm": "Type DELETE to confirm",
+    "button": "Delete My Account"
+  },
+  "edit": {
+    "title": "Edit Profile",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "saveChanges": "Save Changes",
+    "success": "Profile updated successfully"
+  }
+}

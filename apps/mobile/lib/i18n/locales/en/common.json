@@ -1,0 +1,50 @@
+{
+  "app": {
+    "name": "Mabar",
+    "tagline": "Spin. Discover. Feast."
+  },
+  "navigation": {
+    "home": "Home",
+    "map": "Map",
+    "spin": "Spin",
+    "wallet": "Wallet",
+    "profile": "Profile"
+  },
+  "buttons": {
+    "continue": "Continue",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "skip": "Skip",
+    "done": "Done",
+    "tryAgain": "Try Again",
+    "getStarted": "Get Started",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "loading": "Loading..."
+  },
+  "time": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "daysAgo": "{{count}} days ago",
+    "hoursLeft": "{{hours}}h {{minutes}}m left",
+    "minutesLeft": "{{minutes}}m left",
+    "expired": "Expired",
+    "expiresIn": "Expires in {{time}}"
+  },
+  "distance": {
+    "km": "{{value}} km",
+    "m": "{{value}} m",
+    "away": "{{distance}} away"
+  },
+  "currency": {
+    "off": "{{value}}% OFF",
+    "free": "FREE"
+  },
+  "errors": {
+    "general": "Something went wrong. Please try again.",
+    "network": "Network error. Please check your connection.",
+    "notFound": "Not found"
+  }
+}

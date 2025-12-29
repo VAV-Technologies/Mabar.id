@@ -1,0 +1,48 @@
+{
+  "screen": {
+    "title": "Voucher Kamu",
+    "wallet": "Dompet Saya"
+  },
+  "card": {
+    "voucher": "VOUCHER",
+    "code": "Kode",
+    "expiresIn": "Berakhir dalam",
+    "expired": "KEDALUWARSA",
+    "used": "TERPAKAI",
+    "timeLeft": "waktu tersisa"
+  },
+  "details": {
+    "termsConditions": "Syarat & Ketentuan",
+    "validFor": "Berlaku untuk",
+    "dineIn": "makan di tempat saja",
+    "takeaway": "bawa pulang saja",
+    "both": "makan di tempat & bawa pulang",
+    "minPurchase": "Min. pembelian",
+    "maxDiscount": "Maks. diskon",
+    "notCombined": "Tidak dapat digabung dengan promo lain"
+  },
+  "actions": {
+    "getDirections": "Petunjuk Arah",
+    "shareWithFriends": "Bagikan ke Teman",
+    "useVoucher": "Gunakan Voucher",
+    "showToStaff": "Tunjukkan ke kasir",
+    "markAsUsed": "Tandai Sudah Digunakan"
+  },
+  "tabs": {
+    "active": "Aktif",
+    "used": "Terpakai",
+    "expired": "Kedaluwarsa"
+  },
+  "empty": {
+    "noVouchers": "Belum ada voucher",
+    "spinToGet": "Putar roda untuk mendapatkan voucher!",
+    "goSpin": "Putar Sekarang",
+    "noActiveVouchers": "Tidak ada voucher aktif",
+    "noUsedVouchers": "Tidak ada voucher terpakai",
+    "noExpiredVouchers": "Tidak ada voucher kedaluwarsa"
+  },
+  "confirm": {
+    "useTitle": "Gunakan Voucher?",
+    "useMessage": "Yakin ingin menandai voucher ini sebagai terpakai? Tindakan ini tidak dapat dibatalkan."
+  }
+}

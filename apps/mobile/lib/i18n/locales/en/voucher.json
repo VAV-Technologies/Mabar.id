@@ -1,0 +1,48 @@
+{
+  "screen": {
+    "title": "Your Voucher",
+    "wallet": "My Wallet"
+  },
+  "card": {
+    "voucher": "VOUCHER",
+    "code": "Code",
+    "expiresIn": "Expires in",
+    "expired": "EXPIRED",
+    "used": "USED",
+    "timeLeft": "time left"
+  },
+  "details": {
+    "termsConditions": "Terms & Conditions",
+    "validFor": "Valid for",
+    "dineIn": "dine-in only",
+    "takeaway": "takeaway only",
+    "both": "dine-in & takeaway",
+    "minPurchase": "Min. purchase",
+    "maxDiscount": "Max. discount",
+    "notCombined": "Cannot be combined with other promotions"
+  },
+  "actions": {
+    "getDirections": "Get Directions",
+    "shareWithFriends": "Share with Friends",
+    "useVoucher": "Use Voucher",
+    "showToStaff": "Show this to staff",
+    "markAsUsed": "Mark as Used"
+  },
+  "tabs": {
+    "active": "Active",
+    "used": "Used",
+    "expired": "Expired"
+  },
+  "empty": {
+    "noVouchers": "No vouchers yet",
+    "spinToGet": "Spin the wheel to get vouchers!",
+    "goSpin": "Go Spin",
+    "noActiveVouchers": "No active vouchers",
+    "noUsedVouchers": "No used vouchers",
+    "noExpiredVouchers": "No expired vouchers"
+  },
+  "confirm": {
+    "useTitle": "Use Voucher?",
+    "useMessage": "Are you sure you want to mark this voucher as used? This action cannot be undone."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "screen": {
+    "title": "Spin the Wheel",
+    "spinning": "Spinning...",
+    "selectArea": "Select Your Area"
+  },
+  "wheel": {
+    "spinButton": "SPIN!",
+    "spinning": "Finding your spot...",
+    "spinsLeft": "Spins left today: {{count}}",
+    "noSpinsLeft": "No spins left today",
+    "getMoreSpins": "Get more spins"
+  },
+  "filters": {
+    "distance": "Distance",
+    "category": "Category",
+    "all": "All",
+    "cafe": "Cafe",
+    "restaurant": "Restaurant",
+    "bar": "Bar",
+    "bakery": "Bakery"
+  },
+  "map": {
+    "confirmSelection": "Confirm Selection",
+    "foundPlaces": "Found {{count}} places in this area",
+    "noPlaces": "No places found in this area",
+    "expandSearch": "Try expanding your search area",
+    "dragToMove": "Drag to move, pinch to resize"
+  },
+  "result": {
+    "congratulations": "CONGRATULATIONS!",
+    "youreGoingTo": "You're going to:",
+    "claimVoucher": "Claim Voucher",
+    "respin": "Re-spin",
+    "navigate": "Navigate",
+    "respinCost": "Re-spin costs 1 spin or {{points}} points",
+    "voucherClaimed": "Voucher claimed!"
+  },
+  "premium": {
+    "unlimitedSpins": "Get unlimited spins",
+    "goPro": "Go Pro"
+  }
+}

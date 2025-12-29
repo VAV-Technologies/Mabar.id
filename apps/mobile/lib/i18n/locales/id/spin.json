@@ -1,0 +1,43 @@
+{
+  "screen": {
+    "title": "Putar Roda",
+    "spinning": "Memutar...",
+    "selectArea": "Pilih Area Kamu"
+  },
+  "wheel": {
+    "spinButton": "PUTAR!",
+    "spinning": "Mencari tempatmu...",
+    "spinsLeft": "Sisa putaran hari ini: {{count}}",
+    "noSpinsLeft": "Tidak ada sisa putaran hari ini",
+    "getMoreSpins": "Dapatkan lebih banyak putaran"
+  },
+  "filters": {
+    "distance": "Jarak",
+    "category": "Kategori",
+    "all": "Semua",
+    "cafe": "Kafe",
+    "restaurant": "Restoran",
+    "bar": "Bar",
+    "bakery": "Toko Roti"
+  },
+  "map": {
+    "confirmSelection": "Konfirmasi Pilihan",
+    "foundPlaces": "Ditemukan {{count}} tempat di area ini",
+    "noPlaces": "Tidak ada tempat ditemukan di area ini",
+    "expandSearch": "Coba perluas area pencarian",
+    "dragToMove": "Geser untuk pindah, cubit untuk mengubah ukuran"
+  },
+  "result": {
+    "congratulations": "SELAMAT!",
+    "youreGoingTo": "Kamu akan pergi ke:",
+    "claimVoucher": "Klaim Voucher",
+    "respin": "Putar Ulang",
+    "navigate": "Navigasi",
+    "respinCost": "Putar ulang membutuhkan 1 putaran atau {{points}} poin",
+    "voucherClaimed": "Voucher diklaim!"
+  },
+  "premium": {
+    "unlimitedSpins": "Dapatkan putaran tanpa batas",
+    "goPro": "Jadi Pro"
+  }
+}

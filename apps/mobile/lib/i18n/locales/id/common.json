@@ -1,0 +1,50 @@
+{
+  "app": {
+    "name": "Mabar",
+    "tagline": "Putar. Temukan. Nikmati."
+  },
+  "navigation": {
+    "home": "Beranda",
+    "map": "Peta",
+    "spin": "Putar",
+    "wallet": "Dompet",
+    "profile": "Profil"
+  },
+  "buttons": {
+    "continue": "Lanjutkan",
+    "cancel": "Batal",
+    "confirm": "Konfirmasi",
+    "save": "Simpan",
+    "skip": "Lewati",
+    "done": "Selesai",
+    "tryAgain": "Coba Lagi",
+    "getStarted": "Mulai",
+    "signIn": "Masuk",
+    "signUp": "Daftar",
+    "signOut": "Keluar",
+    "loading": "Memuat..."
+  },
+  "time": {
+    "today": "Hari ini",
+    "yesterday": "Kemarin",
+    "daysAgo": "{{count}} hari lalu",
+    "hoursLeft": "{{hours}} jam {{minutes}} menit lagi",
+    "minutesLeft": "{{minutes}} menit lagi",
+    "expired": "Kedaluwarsa",
+    "expiresIn": "Berakhir dalam {{time}}"
+  },
+  "distance": {
+    "km": "{{value}} km",
+    "m": "{{value}} m",
+    "away": "{{distance}} dari sini"
+  },
+  "currency": {
+    "off": "Diskon {{value}}%",
+    "free": "GRATIS"
+  },
+  "errors": {
+    "general": "Terjadi kesalahan. Silakan coba lagi.",
+    "network": "Kesalahan jaringan. Periksa koneksi Anda.",
+    "notFound": "Tidak ditemukan"
+  }
+}
